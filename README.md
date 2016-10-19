@@ -24,10 +24,10 @@ Can be derived by any framework and incorporate project’s aesthetic look and f
 
 Visualization 
 
-        HTML Generator Component Library
-          |                       | 
-  Bootstrap Extention       Foundation Extention
-          |                       | 
+   HTML Generator Component Library
+        |                       | 
+Bootstrap Extention       Foundation Extention
+        |                       | 
 Project Specific Files      Project Specific Files
 
 
